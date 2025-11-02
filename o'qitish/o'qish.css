@@ -133,3 +133,12 @@ footer {
     width: 130px;
   }
 }
+.kirish{
+  
+  background: #00bcd4;
+  color: #fff;
+  padding: 8px 15px;
+  border-radius: 20px;
+  font-size: 14px;
+
+}
